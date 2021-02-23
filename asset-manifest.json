@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/webhole/static/css/main.0d18ba50.chunk.css",
+    "main.js": "/webhole/static/js/main.8deb76c0.chunk.js",
+    "main.js.map": "/webhole/static/js/main.8deb76c0.chunk.js.map",
+    "runtime-main.js": "/webhole/static/js/runtime-main.02f90ebb.js",
+    "runtime-main.js.map": "/webhole/static/js/runtime-main.02f90ebb.js.map",
+    "static/css/2.f1d397cf.chunk.css": "/webhole/static/css/2.f1d397cf.chunk.css",
+    "static/js/2.7620516d.chunk.js": "/webhole/static/js/2.7620516d.chunk.js",
+    "static/js/2.7620516d.chunk.js.map": "/webhole/static/js/2.7620516d.chunk.js.map",
+    "index.html": "/webhole/index.html",
+    "precache-manifest.139fca390dd175a7eaa9184c99380a86.js": "/webhole/precache-manifest.139fca390dd175a7eaa9184c99380a86.js",
+    "service-worker.js": "/webhole/service-worker.js",
+    "static/css/2.f1d397cf.chunk.css.map": "/webhole/static/css/2.f1d397cf.chunk.css.map",
+    "static/css/main.0d18ba50.chunk.css.map": "/webhole/static/css/main.0d18ba50.chunk.css.map",
+    "static/js/2.7620516d.chunk.js.LICENSE.txt": "/webhole/static/js/2.7620516d.chunk.js.LICENSE.txt",
+    "static/media/katex.min.css": "/webhole/static/media/KaTeX_Typewriter-Regular.b2e94149.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02f90ebb.js",
+    "static/css/2.f1d397cf.chunk.css",
+    "static/js/2.7620516d.chunk.js",
+    "static/css/main.0d18ba50.chunk.css",
+    "static/js/main.8deb76c0.chunk.js"
+  ]
+}
